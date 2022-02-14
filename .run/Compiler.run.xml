@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Syntax" type="Application" factoryName="Application">
+    <output_file path="$PROJECT_DIR$/src/Phase1/result/out.txt" />
+    <option name="MAIN_CLASS_NAME" value="org.antlr.v4.gui.TestRig" />
+    <module name="PLC_P1" />
+    <option name="PROGRAM_PARAMETERS" value="Cmm cmm -gui test\in\in1.cmm" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

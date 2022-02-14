@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f81aa705-473c-4dec-b5b2-20868f30ac36" name="Default Changelist" comment="Phase 1">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PLC_P1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/antlr_4_9_2_complete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.run/Compiler.run.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C-- Phase1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/antlr-4.9.2-complete.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cmm.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/in/in1.cmm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/in/in10.cmm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/in/in11.cmm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/in/in12.cmm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/in/in13.cmm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/in/in14.cmm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/in/in15.cmm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/in/in2.cmm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/in/in3.cmm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/in/in4.cmm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/in/in5.cmm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/in/in6.cmm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/in/in7.cmm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/in/in8.cmm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/in/in9.cmm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/out/out1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/out/out10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/out/out11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/out/out12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/out/out13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/out/out14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/out/out15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/out/out2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/out/out3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/out/out4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/out/out5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/out/out6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/out/out7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/out/out8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/out/out9.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="256hGbnHMBXJEzBgrk82aofDITk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/antlr-4.9.2-complete.jar" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SM2A\Desktop\plc\1\PLC_P1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f81aa705-473c-4dec-b5b2-20868f30ac36" name="Default Changelist" comment="" />
+      <created>1644853348993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644853348993</updated>
+      <workItem from="1644853350388" duration="1549000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Phase 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Phase 1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="62" width="1089" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1644856373368">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="62" width="1089" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1644856373368" />
+    <state x="473" y="153" key="FileChooserDialogImpl" timestamp="1644855474823">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1644855474823" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1644856364213">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1644856364213" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1644856364213">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1644856364213" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1644856364213">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1644856364213" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1644856364213">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1644856364213" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1644855478266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1644855478266" />
+  </component>
+</project>
